@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#AD1457</color>
+    <color name="colorPrimaryDark">#880E4F</color>
+    <color name="colorAccent">#FB8C00</color>
+    <color name="textSubtitle">#BDBDBD</color>
+    <color name="textPlot">#757575</color>
+    <color name="textRating">#880E4F</color>
+</resources>

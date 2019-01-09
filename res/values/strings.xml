@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Movie Database</string>
+    <string name="content_title">MyNotification Application</string>
+    <string	name="content_text">Check the website:</string>
+    <string	name="subtext">https://www.themoviedb.org/</string>
+    <string	name="send_notif">Link Download</string>
+    <!-- Strings for the Sort By Menu -->
+    <string name="ma_sort_by">Sort By</string>
+    <string name="ma_sort_by_most_popular">Most Popular</string>
+    <string name="ma_sort_by_highest_rated">Highest Rated</string>
+    <string name="ma_refresh">Refresh</string>
+
+    <!-- Main Activity strings -->
+    <string name="ma_error_message">Sorry, we were unable to fetch movie data form the Internet.\nCheck your connection or try again later.</string>
+
+    <!-- Detail Activity strings -->
+    <string name="da_tools_plot">Arthur Curry learns that he is the heir to ther underwater kingdom of Atlantis, and must step forward to lead his people and be a hero to the world. </string>
+    <string name="da_rating_max">/10</string>
+
+    <!-- Base URL to fetch the images from MovieDB.org -->
+    <string name="moviedb_baseurl">https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTIAO6WxwXBYKwXC42xI4QdxGqh.jpg</string>
+
+    <!-- Intent names to send/retrieve data from/to activities -->
+    <string name="intent_title">Title</string>
+    <string name="intent_poster">Poster</string>
+    <string name="intent_plot">Plot</string>
+    <string name="intent_voting">Vote</string>
+    <string name="intent_release_date">Release Date</string>
+    <string name="send_download">Link Download</string>
+
+</resources>
