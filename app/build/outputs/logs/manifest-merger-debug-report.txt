@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\33300e6453e25fe51fe8a5ca9a026ffb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\0c1f8c24d38c99eded15fb4e7b5d71cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\fb936be391391853004d51b1699613b5\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\dbddf62a0c940d28e2ca25ec6c4a7107\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\16c3496bce9e06228912dbd771d0e3aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\db817d1393637648eecf3601ca6868e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c1c7bb903dedcf4db97fac015b38a8d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4cc9aec7382b8d277a276b4859867bbc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f0fe9e61b6cfbbb2ee3decc2b8bac6c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\d63b68c0b1e7c50f6bbf1284e2364875\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\11846163957993c409a3c098cc5cfe56\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3421f262cb77a6b3bba848859af3b6a3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5f3a6b3e5713331f8ef89c5d856be472\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ddd57e3d3db5a5a605efe98e1fb7576f\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:5:5-26:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\fb936be391391853004d51b1699613b5\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\fb936be391391853004d51b1699613b5\AndroidManifest.xml:7:5-12:19
+	android:supportsRtl
+		ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.android.moviedatabase.MainActivity
+ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.android.moviedatabase.DetailActivity
+ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:parentActivityName
+		ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:21:13-55
+	android:name
+		ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:20:13-43
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:22:13-24:49
+	android:value
+		ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:24:17-46
+	android:name
+		ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:23:17-63
+uses-permission#android.permission.INTERNET
+ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:28:5-67
+	android:name
+		ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml:28:22-64
+uses-sdk
+INJECTED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\33300e6453e25fe51fe8a5ca9a026ffb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\33300e6453e25fe51fe8a5ca9a026ffb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\0c1f8c24d38c99eded15fb4e7b5d71cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\0c1f8c24d38c99eded15fb4e7b5d71cc\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\fb936be391391853004d51b1699613b5\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\fb936be391391853004d51b1699613b5\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\dbddf62a0c940d28e2ca25ec6c4a7107\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\dbddf62a0c940d28e2ca25ec6c4a7107\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\16c3496bce9e06228912dbd771d0e3aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\16c3496bce9e06228912dbd771d0e3aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\db817d1393637648eecf3601ca6868e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\db817d1393637648eecf3601ca6868e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c1c7bb903dedcf4db97fac015b38a8d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c1c7bb903dedcf4db97fac015b38a8d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4cc9aec7382b8d277a276b4859867bbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4cc9aec7382b8d277a276b4859867bbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f0fe9e61b6cfbbb2ee3decc2b8bac6c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f0fe9e61b6cfbbb2ee3decc2b8bac6c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\d63b68c0b1e7c50f6bbf1284e2364875\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\d63b68c0b1e7c50f6bbf1284e2364875\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\11846163957993c409a3c098cc5cfe56\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\11846163957993c409a3c098cc5cfe56\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3421f262cb77a6b3bba848859af3b6a3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\3421f262cb77a6b3bba848859af3b6a3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5f3a6b3e5713331f8ef89c5d856be472\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5f3a6b3e5713331f8ef89c5d856be472\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ddd57e3d3db5a5a605efe98e1fb7576f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ddd57e3d3db5a5a605efe98e1fb7576f\AndroidManifest.xml:20:5-44
+INJECTED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ResponsiPAM-master\app\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\fb936be391391853004d51b1699613b5\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\fb936be391391853004d51b1699613b5\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\fb936be391391853004d51b1699613b5\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Smart\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\fb936be391391853004d51b1699613b5\AndroidManifest.xml:9:13-64
