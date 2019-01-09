@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Database Movie</string>
+    <string name="content_title">MyNotification Application</string>
+    <string	name="content_text">Good Mornig</string>
+    <string	name="subtext">Nice to see you</string>
+    <string	name="send_notif">Link Download</string>
+    <!-- Strings for the Sort By Menu -->
+    <string name="ma_sort_by">Urutkan Sesuai</string>
+    <string name="ma_sort_by_most_popular">Terpopuler</string>
+    <string name="ma_sort_by_highest_rated">Penilaian Tertinggi</string>
+    <string name="ma_refresh">Ulangi Halaman</string>
+
+    <!-- Main Activity strings -->
+    <string name="ma_error_message">Maaf, kami tidak bisa menemukan data movie dengan internet.\nSilahkan cek koneksi atau coba lagi kembali.</string>
+
+    <!-- Detail Activity strings -->
+    <string name="da_tools_plot">Arthur Curry mengetahui bahwa ia adalah pewaris kerajaan Atlantis di bawah airnya, dan harus melangkah maju untuk memimpin rakyatnya dan menjadi pahlawan bagi dunia.</string>
+    <string name="da_rating_max">/10</string>
+
+    <!-- Base URL to fetch the images from MovieDB.org -->
+    <string name="moviedb_baseurl">https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTIAO6WxwXBYKwXC42xI4QdxGqh.jpg</string>
+
+    <!-- Intent names to send/retrieve data from/to activities -->
+    <string name="intent_title">Judul</string>
+    <string name="intent_poster">Poster</string>
+    <string name="intent_plot">Plot</string>
+    <string name="intent_voting">Pemilihan</string>
+    <string name="intent_release_date">Tanggal rilis</string>
+
+</resources>
